@@ -1,4 +1,4 @@
-<p align="center">${{\color{#474138}\texttt{"oh shit"}}}$
+<p align="center">${{\color{#d92d2a}\texttt{"oh shit"}}}$
 
 <p align="center"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/eddsworldstamp.png" alt="Eddsworld stamp"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/postalreduxstamp.png" alt="Postal Redux stamp">
 
