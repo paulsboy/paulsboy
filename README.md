@@ -1,4 +1,4 @@
-<p align="center">${{\color{#d92d2a}\texttt{"oh."}}}$
+<p align="center">${{\color{#d92d2a}\texttt{"how come you only look pleased in bed?"}}}$
 
 <p align="center"><img src="https://raw.githubusercontent.com/paulsboy/paulsboy/main/0026-iheart2.gif"><img src="https://raw.githubusercontent.com/paulsboy/paulsboy/main/148992cobpddgrnj.gif">
 
