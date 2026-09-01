@@ -4,7 +4,7 @@
 
 
 
-<p align="center">  󠀠 ⠀ <a href="https://discord.com/users/1536279284061044776">discord</a> 󠀠 ⠀ <a href="https://paull.atabook.org/?page=1">atabook</a> 󠀠 ⠀ <a href="https://postalphile.straw.page/">strawpage</a>
+<p align="center"><a href="https://discord.com/users/1536279284061044776">discord</a> 󠀠 ⠀ <a href="https://paull.atabook.org/?page=1">atabook</a> 󠀠 ⠀ <a href="https://postalphile.straw.page/">strawpage</a>
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/paulsboy/paulsboy/main/paulgif.gif">
